@@ -16,6 +16,16 @@
 
 ---
 
+## 💖 Support This Project
+
+If this project helped you or you liked the idea, consider supporting me:
+
+[![Donate via UPI](https://img.shields.io/badge/Donate-UPI-blueviolet?style=for-the-badge&logo=buymeacoffee)](https://codesaif.in/tools/upi-pay-link/pay.php?id=pay_6827e5049fe76)
+
+
+
+---
+
 ## 💳 Payment Flow (Manual Verification)
 
 1. User selects a product and goes to **checkout**
@@ -48,11 +58,20 @@
 ---
 
 ## 🤝 Developed By
-
 **CodeSaif**  
+
 🔗 [Website](https://codesaif.in) | 📬 [contact.codesaif@gmail.com](mailto:contact.codesaif@gmail.com)  
 📱 Telegram: [@codesaif_group](https://t.me/codesaif_group)  
-📸 Instagram: [@mdsaifali11](https://instagram.com/mdsaifali11)
+📸 Instagram: [@mdsaifali111](https://instagram.com/mdsaifali111)
+
+<p align="left">
+  <a href="https://codesaif.in/tools/upi-pay-link/pay.php?id=pay_6827e5049fe76" target="_blank">
+    <img src="https://img.shields.io/badge/Support%20Via-UPI-blue?style=for-the-badge&logo=googlepay" alt="Support Me via UPI" />
+  </a>
+</p>
+> ⚡ Every contribution helps me keep building useful tools for developers like you.
+
+
 
 ---
 
