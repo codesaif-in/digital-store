@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 5.2.1
 -- https://www.phpmyadmin.net/
---
+
 -- Host: 127.0.0.1
 -- Generation Time: May 17, 2025 at 02:46 AM
 -- Server version: 10.4.32-MariaDB
@@ -12,10 +12,7 @@ START TRANSACTION;
 SET time_zone = "+00:00";
 
 
-/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
-/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
-/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8mb4 */;
+
 
 --
 -- Database: `digital_store`
@@ -81,7 +78,7 @@ CREATE TABLE `orders` (
 --
 
 INSERT INTO `orders` (`id`, `product_id`, `name`, `email`, `phone`, `payment_screenshot`, `is_verified`, `created_at`) VALUES
-(1, 1, 'saif', 'saif@gmail.com', '87505', '1747433378_Screenshot (23).png', 1, '2025-05-16 22:09:38');
+(1, 1, 'coder', 'codesaif@gmail.com', '87505', '1747433378_Screenshot (23).png', 1, '2025-05-16 22:09:38');
 
 -- --------------------------------------------------------
 
@@ -104,7 +101,7 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `title`, `description`, `price`, `file_url`, `created_at`, `is_featured`) VALUES
-(1, 'Ebook: PHP Basics', 'Learn PHP programming', 499.00, 'uploads/products/1747435742_aadhaar.jpg', '2025-05-16 20:40:46', 0),
+(1, 'Ebook: PHP Basics', 'Learn PHP programming', 499.00, 'uploads/products/course.jpg', '2025-05-16 20:40:46', 0),
 (2, 'Website Template', 'Responsive HTML template', 999.00, NULL, '2025-05-16 20:40:46', 0);
 
 -- --------------------------------------------------------
